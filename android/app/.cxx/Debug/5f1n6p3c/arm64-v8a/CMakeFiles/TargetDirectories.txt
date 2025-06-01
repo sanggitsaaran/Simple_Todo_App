@@ -1,0 +1,2 @@
+C:/Users/asus/AndroidStudioProjects/Simple_Todo/android/app/.cxx/Debug/5f1n6p3c/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/asus/AndroidStudioProjects/Simple_Todo/android/app/.cxx/Debug/5f1n6p3c/arm64-v8a/CMakeFiles/rebuild_cache.dir

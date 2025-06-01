@@ -1,0 +1,1 @@
+C:\Users\asus\AndroidStudioProjects\Simple_Todo\build\app\intermediates\cxx\Debug\5f1n6p3c\obj\arm64-v8a
